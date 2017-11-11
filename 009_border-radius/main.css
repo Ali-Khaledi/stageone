@@ -1,0 +1,23 @@
+div {
+    width: 110px;
+    height: 110px;
+    border: 2px solid red;
+    border-radius: 100%;
+    background-image: url("../007_hands-on-exercises/15.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img {
+    border: 20px groove darkorange;
+    border-radius: 90%;
+}
+
+.one {
+    border: 20px dashed darkorange;
+}
+.two {
+    border: 20px dotted darkorange;
+}
+.three {
+    border: 20px double darkorange;
+}
